@@ -1,17 +1,21 @@
 <h1 align="center">👋 Hey there, I'm Mohammed Nokry!</h1>
+<p align="center">
+  <i>AI Developer | Web Scraping Specialist | Automation Engineer</i><br/>
+  <i>Turning ideas into smart, scalable solutions</i>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+profile+—+the+digital+lab+where+code+meets+creativity+💻⚡;AI+%26+ML+Developer+🤖;Problem+Solver+🧠;Creative+Coder+🎨" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- ⚡ Passionate about **AI**, **Machine Learning**, **Automation**, and **Product Thinking**
-- 🤖 I build smart assistants, AI SaaS tools, and language-based applications
-- 🌍 I freelance and help businesses solve real-world problems using modern AI
-- 🛠 Currently working on **AI SaaS tools** + **WhatsApp AI Agents**
+- ⚡ Passionate about **AI**, **Web Scraping**, **Automation**, and **Big Data**
+- 🤖 I build intelligent assistants, chatbots, SaaS platforms, and automation tools
+- 🌍 I freelance and help businesses turn messy problems into elegant code
+- 🛠 Currently working on **AI SaaS tools** + **Whatsapp AI Agents**
 
 ---
 
@@ -19,12 +23,12 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-5A4FCF?style=flat)
 ![LangChain](https://img.shields.io/badge/-LangChain-000?style=flat&logo=openai)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
 ---
 
@@ -39,17 +43,17 @@
 
 ## 🧠 Currently Learning
 
-- 💡 Multilingual RAG Assistants using LangChain
-- 🛠 Deploying full-stack AI MVPs
-- 🤝 Combining AI with business automation
+- 🗣️ **Multilingual Chatbots** with LangChain & RAG
+- ⚙️ **Full-stack AI SaaS platforms**
+- 🧪 **OpenAI + Vector DBs (Chroma, Pinecone)**
 
 ---
 
 ## 🔥 Fun Facts
 
-- 🧠 Obsessed with solving real problems using AI
-- 📚 On a 6-month challenge for self-growth, product building, and learning
-- 💬 I love turning abstract ideas into reality through code
+- 🧠 I automate boring stuff (so you don’t have to)
+- 📚 I’m on a personal **6-month challenge** to grow in tech, business & mindset
+- 🧩 I mix AI + creativity + business like it’s magic 🪄
 
 ---
 
