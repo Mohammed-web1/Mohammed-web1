@@ -1,52 +1,76 @@
-# 👋 Hey there, I'm Mohammed Nokry!
+<h1 align="center">👋 Hey there, I'm Mohammed Nokry!</h1>
+<p align="center">
+  <i>AI Developer | Web Scraping Specialist | Automation Engineer</i><br/>
+  <i>Turning ideas into smart, scalable solutions</i>
+</p>
 
-Welcome to my GitHub profile — the digital lab where code meets creativity 💻⚡
-
-## 🚀 About Me
-I'm an **AI Developer**, **Web Scraping Specialist**, and **Automation Wizard** 🧙‍♂️  
-I turn ideas into scalable solutions using Python, Django, LangChain, and a bit of caffeine ☕💡
-
-🔍 I dig through the web to extract gold (aka data)  
-🤖 I build smart AI assistants, chatbots & SaaS tools  
-📊 I automate boring stuff so humans can focus on thinking
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
+</p>
 
 ---
 
-## 🧠 My Powers
+## 🧠 About Me
 
-- 🐍 Pythonic by nature — Pandas, NumPy, Scikit-learn, Selenium, Scrapy
-- 🌐 Web Scraping Jedi — from dynamic sites to massive data ops
-- 🧠 AI & NLP — ChatGPT, LangChain, Whisper, and more
-- 🛠️ Automation Addict — Zapier, APIs, bots, you name it
-- 📦 Docker & CI/CD — because deployment should be easy
-
----
-
-## 🔧 What I'm Working On
-
-- Building AI SaaS tools that *actually* solve problems
-- Training chatbots to be smarter than your ex 💔🤖
-- Automating processes for clients to save time & money
-- Teaching machines how to trade better than humans 📈
+- ⚡ Passionate about **AI**, **Web Scraping**, **Automation**, and **Big Data**
+- 🤖 I build intelligent assistants, chatbots, SaaS platforms, and automation tools
+- 🌍 I freelance and help businesses turn messy problems into elegant code
+- 🛠 Currently working on **AI SaaS tools** + **Whatsapp AI Agents**
 
 ---
 
-## ✨ Fun Facts
+## 🚀 Tech Stack
 
-- 🗣️ I speak 3 languages (including Python 😉)
-- 📚 Self-improvement addict – currently on a 6-month growth challenge
-- 🌍 I love mixing tech, business & creativity
-
----
-
-## 📫 Let's Connect!
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
-- 🧠 Portfolio / Website: *Coming Soon*
-- 💌 Email: your@email.com
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-5A4FCF?style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-000?style=flat&logo=openai)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
-Let’s write code that makes people smile 😊
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammednokry&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammednokry&theme=radical" width="47%" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+- 🗣️ **Multilingual Chatbots** with LangChain & RAG
+- ⚙️ **Full-stack AI SaaS platforms**
+- 🧪 **OpenAI + Vector DBs (Chroma, Pinecone)**
+
+---
+
+## 🔥 Fun Facts
+
+- 🧠 I automate boring stuff (so you don’t have to)
+- 📚 I’m on a personal **6-month challenge** to grow in tech, business & mindset
+- 🧩 I mix AI + creativity + business like it’s magic 🪄
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Code like a hacker, think like a founder 💡"</i><br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=435&lines=Let's+Build+Something+Awesome+Together!;AI+Is+the+New+Electricity;Follow+for+cool+tech+projects+🚀" />
+</p>
