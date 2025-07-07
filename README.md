@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hi, I'm Mohammed-web1!
 
-<!--
-**Mohammed-web1/Mohammed-web1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an enthusiastic **AI and Machine Learning developer** with a passion for building intelligent solutions and scalable systems. My expertise spans from deep learning models to deploying applications in modern cloud environments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on AI, machine learning, and deep learning projects.
+- 🧠 Skilled in **Python**, **PyTorch**, and modern ML frameworks.
+- 🐳 Experienced with **Docker** for reproducible, containerized deployments.
+- 💡 Always exploring new technologies and sharing knowledge with the community.
+
+---
+
+## 🛠️ Skills & Tools
+
+- **Languages:** Python, Bash, (and always learning more!)
+- **Frameworks/Libraries:** PyTorch, TensorFlow, Scikit-learn
+- **DevOps:** Docker, GitHub Actions
+- **Data:** Pandas, NumPy, Matplotlib
+- **Other:** REST APIs, Jupyter, Linux
+
+---
+
+## 📈 GitHub Stats
+
+![Mohammed-web1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-web1&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-web1&layout=compact&theme=tokyonight)
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced reinforcement learning techniques
+- Scalable ML deployment with Kubernetes
+- Building production-ready APIs with FastAPI
+
+---
+
+## 📫 Get in Touch
+
+- **LinkedIn:** [Your LinkedIn Profile](#)
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+
+---
+
+## ⚡ Fun Fact
+
+I'm always up for collaborating on open-source AI projects or hackathons!  
+Let’s connect and build something amazing together.
+
+---
+
+*Thanks for stopping by! ⭐️*
