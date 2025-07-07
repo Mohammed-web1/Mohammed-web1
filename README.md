@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm an enthusiastic **AI and Machine Learning deve
 
 ## 📫 Get in Touch
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:**https://www.linkedin.com/in/mohammed-nokry/
+- **Email:** nokrymohammed342@gmail.com
 
 ---
 
