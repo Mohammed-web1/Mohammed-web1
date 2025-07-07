@@ -1,55 +1,52 @@
-# 👋 Hi, I'm Mohammed-web1!
+# 👋 Hey there, I'm Mohammed Nokry!
 
-Welcome to my GitHub profile! I'm an enthusiastic **AI and Machine Learning developer** with a passion for building intelligent solutions and scalable systems. My expertise spans from deep learning models to deploying applications in modern cloud environments.
-
----
+Welcome to my GitHub profile — the digital lab where code meets creativity 💻⚡
 
 ## 🚀 About Me
+I'm an **AI Developer**, **Web Scraping Specialist**, and **Automation Wizard** 🧙‍♂️  
+I turn ideas into scalable solutions using Python, Django, LangChain, and a bit of caffeine ☕💡
 
-- 🔭 I’m currently working on AI, machine learning, and deep learning projects.
-- 🧠 Skilled in **Python**, **PyTorch**, and modern ML frameworks.
-- 🐳 Experienced with **Docker** for reproducible, containerized deployments.
-- 💡 Always exploring new technologies and sharing knowledge with the community.
-
----
-
-## 🛠️ Skills & Tools
-
-- **Languages:** Python, Bash, (and always learning more!)
-- **Frameworks/Libraries:** PyTorch, TensorFlow, Scikit-learn
-- **DevOps:** Docker, GitHub Actions
-- **Data:** Pandas, NumPy, Matplotlib
-- **Other:** REST APIs, Jupyter, Linux
+🔍 I dig through the web to extract gold (aka data)  
+🤖 I build smart AI assistants, chatbots & SaaS tools  
+📊 I automate boring stuff so humans can focus on thinking
 
 ---
 
-## 📈 GitHub Stats
+## 🧠 My Powers
 
-![Mohammed-web1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohammed-web1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-web1&layout=compact&theme=tokyonight)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced reinforcement learning techniques
-- Scalable ML deployment with Kubernetes
-- Building production-ready APIs with FastAPI
+- 🐍 Pythonic by nature — Pandas, NumPy, Scikit-learn, Selenium, Scrapy
+- 🌐 Web Scraping Jedi — from dynamic sites to massive data ops
+- 🧠 AI & NLP — ChatGPT, LangChain, Whisper, and more
+- 🛠️ Automation Addict — Zapier, APIs, bots, you name it
+- 📦 Docker & CI/CD — because deployment should be easy
 
 ---
 
-## 📫 Get in Touch
+## 🔧 What I'm Working On
 
-- **LinkedIn:**https://www.linkedin.com/in/mohammed-nokry/
-- **Email:** nokrymohammed342@gmail.com
-
----
-
-## ⚡ Fun Fact
-
-I'm always up for collaborating on open-source AI projects or hackathons!  
-Let’s connect and build something amazing together.
+- Building AI SaaS tools that *actually* solve problems
+- Training chatbots to be smarter than your ex 💔🤖
+- Automating processes for clients to save time & money
+- Teaching machines how to trade better than humans 📈
 
 ---
 
-*Thanks for stopping by! ⭐️*
+## ✨ Fun Facts
+
+- 🗣️ I speak 3 languages (including Python 😉)
+- 📚 Self-improvement addict – currently on a 6-month growth challenge
+- 🌍 I love mixing tech, business & creativity
+
+---
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 🧠 Portfolio / Website: *Coming Soon*
+- 💌 Email: your@email.com
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+Let’s write code that makes people smile 😊
+
