@@ -2,7 +2,7 @@
 <p align="center">
   <img src ="https://raw.githubusercontent.com/yezz123/yezz123/master/img/anime.gif">
 </p>
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Mohammed 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-stack+developer;Always+learning+something+new;Open+to+collabs+%26+opportunities!" alt="Typing SVG" />
@@ -12,9 +12,9 @@
 
 ### 🚀 About Me
 
-- 🔭 I'm currently working on **[your current project]**
-- 🌱 I'm learning **[something you're picking up]**
-- 💬 Ask me about **[topics you love]**
+- 🔭 I'm currently working on **GitMend**
+- 🌱 I'm learning **IA**
+- 💬 Ask me about **IA**
 - 👯 I'm **open to collaborating** and **open to work** — let's build something!
 - ⚡ Fun fact: **[a fun fact about you]**
 
